@@ -29,35 +29,13 @@
     </a>
   </h3>
 </p>
-
-## Features
-
-- __small in size:__ The complete host list size is less then 2mb.
-- __designed for mobile phones:__ Goodbye ads is specially designed for blocking ads in apps and mobile websites.
-- __hosts based:__ based on `Hosts` file, all the bad stuffs blocked with `0.0.0.0`
-- __any device:__ compatible with all devices, regardless of OS.
-- __blockings:__ strictly blocks `advertisements, malwares, spams, statistics & trackers` on both web browsing and applications.
-- __speed you need:__ reduces page loading time upto `half` of its actual time!
-- __privacy:__ with all these annoyances blocking, it also `increases` privacy.
-- __saves expense:__ greatly decreases data consumption `saving` expense.
-- __clean:__ no `extra` bullshit! 
-
-## What is a host file?                 
-       
- A hosts file, named hosts, is a plain-text file used by all operating systems to map hostnames to IP addresses. Host file preferred over DNS so  if a domain name is resolved by the hosts file, the request never leaves your computer.
- 
-## Notice
-
-- We block **`graph.facebook.com`**. The reason is that this domain serves many of the ads.  So, in order to use Facebook, you should consider to `whitelist either facebook's main app, or whitelist graph.facebook.com in your ad blocker` — **otherwise the Facebook app will not work** (there are no problems with facebook lite app and other facebook client apps).  If you are using `Facebook lite messenger`, then `whitelist the app or whitelist mqtt-mini.facebook.com`. Otherwise messenger will not work. We always recommend our users to use Open Source Facebook Clients for 100% ad free experience.  If you are facing any problems feel free to contact us through XDA or Telegram.
-
-- GoodbyeAds-Ultra Discontinued.
  
 ## Packs
 
 Basic info about all GoodbyeAds packs.
 
-| PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | HOSTS TXT | ADBLOCK FILTER |
-|:---------:|:-------:|:---------:|:--------------:|:---------:|:--------------:|
+| PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | HOSTS TXT |
+|:---------:|:-------:|:---------:|:--------------:|:---------:|
 GoodbyeAds | Block Ads.Trackers.Analytics.Malware. (Included Xiaomi Adblock & Samsung Adblock list) | Any Device | 242872+ | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt)
 
 ## Support
