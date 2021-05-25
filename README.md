@@ -58,47 +58,7 @@ Basic info about all GoodbyeAds packs.
 
 | PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | HOSTS TXT | ADBLOCK FILTER |
 |:---------:|:-------:|:---------:|:--------------:|:---------:|:--------------:|
-GoodbyeAds | Block Ads.Trackers.Analytics.Malware. (Included Xiaomi Adblock & Samsung Adblock list) | Any Device | 242872+ | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) |
-GoodbyeAds YouTube Adblock | Special List to block YouTube Ads,Trackers & Analytics. | Mobile Phones, Computers, Smart Tv | 97615 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt) |
-GoodbyeAds Xiaomi AdBlock | Special List to Block Xiaomi Ads,Trackers & Analytics. | Xiaomi Device | 276 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt) |
-GoodbyeAds Samsung Adblock | Special List to Block Samsung Ads,Trackers & Analytics. | Samsung Mobile/Smart Tv | 83 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt) |
-GoodbyeAds LeEco AdBlock | Special List to Block LeEco Ads,Trackers & Analytics. | LeEco Device | 110 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt) |
-GoodbyeAds Spotify AdBlock | Special List to Block Spotify Ads. | Any Device | 3500+ | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt) |
-
-## Supported Adblockers
-
-***Windows:*** On Windows, you can use [`Hostman`](http://www.abelhadigital.com/hostsman/), to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.       
-     
-***Android:*** For non-rooted devices, GoodbyeAds can be used with [`DNS66`](https://f-droid.org/en/packages/org.jak_linux.dns66/),or [`Blokada`](https://f-droid.org/en/packages/org.blokada.alarm/), or  [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/) or [`Nebulo`](https://nebulo.app/source) all are free and open-source ad-blockers.     
-     
-***Android (rooted):*** For rooted device, GoodbyeAds can be used with [`AdAway`](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
-     
-***Linux:*** An open-source host file manager called [`hBlock`](https://github.com/hectorm/hBlock).   
-       
-***Mac OS:*** This host file can be used with [`gasmask`](https://github.com/2ndalpha/gasmask).    
-   
-***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app.
-
-## Package Sources
-
-Sources each pack uses.
-
-| PACKAGE | SOURCES |  
-|:-------:|:-------:|
-**GoodbyeAds** | *GBA Core + 280blocker., Coinblocker domain list,  Spam 404, Ad-war,  Adguard Mobile Ads & filter, Anti pop ads, Blackbook, Zeus tracker,  Adaway, AnudeepND, Ador's core hosts list, YHosts, Pishing bad sites, Cameleon hosts, Jiffxtremeblock, Userreports, Adguard Mobile adservers, Adguard mobile specefic  & Spyware (Mobile-Host), Easylist Adservers, Easy Privacy, Easylist lite, add.207Net, add.Dead,add.Risk, add.Spam, Notrack trackers,MobileAdTrackers, Snuff hosts, MVPS.ORG, Steven Black Hosts, Someonewhocares, HpHosts, Streaming Ads,  UncheckyAds, , PGL YoYo.org, .*|
-**Xiaomi AdBlock** | *GBA Core + User reports , GBA Community* |
-**LeEco AdBlock** | *GBA Core + User reports , GBA Community* |
-**Samsung AdBlock** | *GBA Core + User reports , GBA Community* |
-**YouTube AdBlock** | *GBA Core + User reports , GBA Community* |
-**Spotify Adblock** | *GBA Core* |
-
-## Documentation
-
- - [FAQ](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/FAQ.md)
- - [How to Use](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/How%20to%20use.md)
- - [Sources](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Sources.md)
- - [Dead Hosts Removal](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Dead%20host%20removal.md)
- - [Financial Contributors](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Financial%20contributors.md)
+GoodbyeAds | Block Ads.Trackers.Analytics.Malware. (Included Xiaomi Adblock & Samsung Adblock list) | Any Device | 242872+ | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt)
 
 ## Support
 
