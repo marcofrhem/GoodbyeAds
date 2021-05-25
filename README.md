@@ -2,18 +2,8 @@
   <img width="1000" height="350" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/GoodbyeAds_New_logo_Trans.png">
 </p>
 <br>
-     
-[![latest release](https://img.shields.io/github/release/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/releases)
-[![license](https://img.shields.io/github/license/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/blob/master/license.txt)
-[![contributors](https://img.shields.io/github/contributors/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/graphs/contributors)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
-[![commits since last release](https://img.shields.io/github/commits-since/jerryn70/GoodbyeAds/latest.svg)](https://github.com/jerryn70/GoodbyeAds/commits/master)
-[![last commit](https://img.shields.io/github/last-commit/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/commits/master)
-[![commit activity](https://img.shields.io/github/commit-activity/y/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/commits/master)
-<a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/build%20-passing-32CD32.svg"></a>
-<a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/status%20-stable-FF1493.svg"></a>
-<a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/updated%20on-13 May 2021-9400D3.svg"></a>          
-<h1 align="center">GoodbyeAds - W🌎rld of Ads Free Internet - Pihole version</h1> 
+            
+<h1 align="center">GoodbyeAds - Pihole version</h1> 
 <p align="center">  
   <a href="https://paypal.me/jerryn70" target="_blank"><img alt="Donate using Paypal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
   &nbsp;&nbsp;
