@@ -34,7 +34,7 @@
 
 Basic info about all GoodbyeAds packs.
 
-| PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | HOSTS TXT |
+| PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | BLOCKLIST TXT |
 |:---------:|:-------:|:---------:|:--------------:|:---------:|
 GoodbyeAds | Block Ads.Trackers.Analytics.Malware. (Included Xiaomi Adblock & Samsung Adblock list) | Any Device | 242872+ | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt)
 
